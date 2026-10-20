@@ -1,0 +1,9 @@
+{
+  "name": "les-vyzhivanie",
+  "version": "1.0.0",
+  "description": "Лес выживание — 3D игра на выживание (браузер + онлайн-сервер)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16" },
+  "license": "MIT"
+}
